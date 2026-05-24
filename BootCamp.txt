@@ -1,0 +1,37 @@
+RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
+
+Data: 23/05/2026
+Empresa: Abstergo Industries
+Responsável: Felipe B.
+
+Introdução
+
+Este relatório apresenta o processo de implementação de serviços AWS na empresa Abstergo Industries, realizado por Felipe B. 
+O objetivo do projeto foi selecionar 3 serviços da AWS com a finalidade de reduzir custos operacionais de forma imediata, além de melhorar a eficiência e a escalabilidade dos processos internos.
+
+Descrição do Projeto
+
+O projeto de implementação de serviços foi dividido em 3 etapas, cada uma com objetivos específicos. A seguir, serão descritas as etapas do projeto:
+
+Etapa 1
+Nome do serviço: Elastic Compute Cloud
+Foco do serviço: Capacidade computacional segura
+Descrição do caso de uso: Reduz a necessidade grandes investimentos em um servidos proprio e reduzindo gastos com manutanção (luz, limpeza e etc). Além disso
+porporciona uma segurança devido a seu sistema de redundancia a falhas. 
+
+Etapa 2
+Nome do serviço: Amazon EC2 autoScaling
+Foco do serviço: Otimização dinamica dos recursos de processamento
+Descrição do caso de uso: Ajuste automaticos na capacidade de processamento, assim reduzindo o custo, pois voce pagará conforme a demanda da empresa.
+
+
+Etapa 3
+Nome do serviço: Elastic Load Balancing – ELB
+Foco do serviço: Distribuição de traficos de forma aprimorada
+Descrição do caso de uso: Melhora o desempenho do serviço e protege contra falhas de um datacenter.
+
+
+Conclusão
+
+A implementação dos serviços AWS na empresa Abstergo Industries tem como expectativa proporcionar redução de custos, aumento da eficiência operacional e melhoria na produtividade da equipe. 
+Recomenda-se a continuidade da utilização dos serviços implementados, bem como a busca constante por novas tecnologias que possam otimizar ainda mais os processos da empresa.
